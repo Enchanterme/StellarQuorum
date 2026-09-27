@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/token-governance-lifecycle"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/token-governance-lifecycle": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/token-governance-lifecycle"
+  ]
+}
